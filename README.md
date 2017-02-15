@@ -1,22 +1,23 @@
-Author Carpentry : Lesson Template
+Author Carpentry : Open licensing with Creative Commons
 =======
 
-A description of the lesson goes here.  If you're reading this on the github
-repo, you see the rendered lesson at:
+*Content Contributors: Gail Clement*
 
-http://authorcarpentry.github.io/lesson-template-mkpage
-
-This template is inspired by the software and data carpentry templates, 
-but it employs the mkpage site generation tool as an alternative
-to Jekyll.  Full usage information is at the bottom of the page.
-
-**Content Contributors: Name **
-
-
-**Lesson Maintainers: Name **
-
+*Lesson Maintainers: Gail Clement*
 
 **Lesson status: In Development**
+
+##Learning Objectives:
+- Review the spectrum of rights applied to research outputs from copyright to
+  public domain
+- Review the types of Creative Commons licenses to gain familiarity with their
+  restrictions
+- Given examples of CC-licensed resources, list three allowable uses and how to
+  attribute the CC-licenses resource in the new work
+- Given an example of a CC-Zero work, list two allowable uses and how to
+  attribute the CC-licenses resource in the new work
+- Use an Internet Search tool (e.g., Google) to find resources of interest that
+  are distributed with a CC license
 
 ## Topics:
 
@@ -73,7 +74,6 @@ Add Content
 * Add individual .md files with lesson topics in repository with leading numbers like: 00-topic1.md;
 01-topic2.md
 * Edit nav.md to set links in the navigation bar
-* Edit CONTRIBUTORS as appropriate
 
 View Lesson
 
