@@ -7,7 +7,7 @@ Author Carpentry : Open licensing with Creative Commons
 
 **Lesson status: In Development**
 
-##Learning Objectives:
+## Learning Objectives:
 - Review the spectrum of rights applied to research outputs from copyright to
   public domain
 - Review the types of Creative Commons licenses to gain familiarity with their
