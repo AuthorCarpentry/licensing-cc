@@ -5,7 +5,7 @@ Author Carpentry : Open licensing with Creative Commons
 
 *Lesson Maintainers: None*
 
-**Lesson status: In Development**
+**Lesson status: Future**
 
 ## What you will learn:
 - Review the spectrum of rights applied to research outputs from copyright to
