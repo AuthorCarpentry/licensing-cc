@@ -3,7 +3,7 @@ Author Carpentry : Open licensing with Creative Commons
 
 *Content Contributors: Gail Clement*
 
-*Lesson Maintainers: Gail Clement*
+*Lesson Maintainers: None*
 
 **Lesson status: In Development**
 
